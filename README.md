@@ -1,4 +1,4 @@
-airgraph-ng - a 802.11 visualization utility
+# airgraph-ng - a 802.11 visualization utility
 
 SYNOPSIS:
 
